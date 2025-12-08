@@ -22,6 +22,7 @@ const Navigation: React.FC<NavigationProps> = ({ scrollToSection }) => {
     { id: 'architecture', label: '核心架构' },
     { id: 'usecases', label: '场景' },
     { id: 'why', label: '目标' },
+    { id: 'comparison', label: '对比' },
     { id: 'consensus', label: '共识' },
     { id: 'ai-lab', label: 'AI 实验室' },
   ];

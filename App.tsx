@@ -10,6 +10,7 @@ import UseCases from './components/UseCases';
 import Vision from './components/Vision';
 import WhyItWins from './components/WhyItWins';
 import Consensus from './components/Consensus';
+import Comparison from './components/Comparison';
 import AILab from './components/AILab';
 import Action from './components/Action';
 import Footer from './components/Footer';
@@ -35,6 +36,7 @@ const App: React.FC = () => {
         <UseCases />
         <WhyItWins />
         <Vision />
+        <Comparison />
         <Consensus />
         <AILab />
         <Action />

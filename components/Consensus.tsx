@@ -42,21 +42,21 @@ const ECOSYSTEM_DATA: Record<ProposalType, {
 
 const TEAM_MEMBERS = [
     {
-        name: "XiaoHui Liu",
+        name: "Dr. Bruce",
         role: "创始人 & CEO",
-        avatar: "image/xiaohui.png",
+        avatar: "https://github.com/user-attachments/assets/717703ef-2b37-4ca3-8da1-b589bda84847",
         bio: ["连续创业者", "前 Meta 研究科学家", "sCrypt & CAT 协议创始人", "7年+ 比特币生态经验", "分布式网络博士"]
     },
     {
         name: "Yiqiang Wang",
         role: "联合创始人 & CTO",
-        avatar: "https://pbs.twimg.com/profile_images/1516259972302196738/s-s-6i-d_400x400.jpg",
-        bio: ["连续创业者", "sCrypt & CAT 协议联合创始人", "7年+ 比特币生态经验", "前 友盟创始团队", "前 KTJR CTO"]
+        avatar: "https://github.com/user-attachments/assets/522aa9a8-471a-4891-a733-9d62f9c0a052",
+        bio: ["连续创业者", "sCrypt & CAT 协议联合创始人", "7年+ 比特币生态经验", "前Umeng创始团队", "前 KTJR CTO"]
     },
     {
         name: "Mate Tokay",
         role: "联合创始人 & CMO",
-        avatar: "https://pbs.twimg.com/profile_images/1283733365853245441/Q_5_f_w__400x400.jpg",
+        avatar: "https://github.com/user-attachments/assets/21afd1ed-cd51-4bc5-9b28-1bb5a9e0e981",
         bio: ["加密先驱 & 连续创业者", "Bitcoin.com 联合创始人", "12年+ 加密行业经验", "前 Bitcoin.com CEO", "Altcoinist.com 联合创始人"]
     }
 ];
